@@ -1,12 +1,12 @@
 # Semestral 
 
 Trabajo desarrollado por:
-Elena Linares
-Gloris Cedeño
-Samuel Olmedo
-Azael Batista
-Mario Villarreal
-Jorge Muñoz
+Elena Linares,
+Gloris Cedeño,
+Samuel Olmedo,
+Azael Batista,
+Mario Villarreal,
+Jorge Muñoz,
 Franger Lezcano
 
 Se ejecuto lo siguiente:
